@@ -1,7 +1,6 @@
 # Reddit Intelligence & Deep Research Agent
 
 [![CI Quality Pipeline](https://github.com/SambhavJain26/reddit-deep-research/actions/workflows/ci.yml/badge.svg)](https://github.com/SambhavJain26/reddit-deep-research/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg)](https://vitejs.dev/)
 [![React 18](https://img.shields.io/badge/React-18.3-61DAFB.svg)](https://react.dev/)
@@ -228,6 +227,7 @@ data: {"type": "complete"}
 
 ---
 
-## License
+## Authorship & Project Metadata
 
-This project is licensed under the MIT License: see the [LICENSE](LICENSE) file for details.
+- **Lead Engineer & Architect**: Sambhav Jain
+- **Project Domain**: Multi-Agent Web Research & Real-Time Synthesis
